@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 资沽指数 # the website title (if blank, full name will be used instead)
-first_name: 资沽指数
+title: # the website title (if blank, full name will be used instead)
+first_name: 资沽指数 
 middle_name: 
-last_name:ZigIndex
+last_name:ZigIndex 
 email: zigindex@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
