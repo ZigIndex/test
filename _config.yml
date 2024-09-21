@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 资沽指数 - A股非官方增强指数 # the website title (if blank, full name will be used instead)
-first_name:
-middle_name: 资沽指数 
+title: 资沽指数 # the website title (if blank, full name will be used instead)
+first_name:资沽指数
+middle_name: - A股非官方增强指数  
 last_name:
 email: zigindex@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
