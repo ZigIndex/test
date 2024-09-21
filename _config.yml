@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: 资沽指数 
-middle_name:
+first_name:
+middle_name: 资沽指数 
 last_name:
 email: zigindex@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
