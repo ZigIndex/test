@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: 资沽指数 # the website title (if blank, full name will be used instead)
-first_name:资沽指数
-middle_name: - A股非官方增强指数  
+first_name:资沽指数ZigIndex
+middle_name:  
 last_name:
 email: zigindex@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
